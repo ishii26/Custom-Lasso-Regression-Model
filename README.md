@@ -1,4 +1,4 @@
-## Custom Lasso Regression Model for Price Prediction
+# Custom Lasso Regression Model for Price Prediction
 
 This repository contains a Python implementation of a custom Lasso regression model used for predicting car prices based on various features.
 The dataset utilized includes car attributes such as fuel type, seller type, transmission type, and owner details.
@@ -10,9 +10,9 @@ The dataset used in this project is named cardetails_csv.csv. It contains variou
 
 The code generates plots showing-
 
-### 1. The relationship between actual and predicted prices
+#### 1. The relationship between actual and predicted prices
 
-### 2. A comparison of normalized mean squared errors for the custom Lasso regression model and the Scikit-Learn model
+#### 2. A comparison of normalized mean squared errors for the custom Lasso regression model and the Scikit-Learn model
 
 ![alt text](image.png)
 
